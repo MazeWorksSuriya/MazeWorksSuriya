@@ -11,7 +11,10 @@
 <p align="center"> 
   Visitors count<br>
 </p>
-![](https://hit.yhype.me/github/profile?account_id=1849174)
+[Ÿ HŸPE]: https://yhype.me
+[GitHub Profile Views Counter]: https://github.com/antonkomarev/github-profile-views-counter
+
+![](https://komarev.com/ghpvc/?username=MazeWorksSuriya)
 
 <!-- <details> -->
 <!--  <summary>⚡️ More about my coding life</summary> -->
