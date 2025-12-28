@@ -3,15 +3,13 @@
 "If I have seen further it is by standing on the shoulders of Giants."
 
 ### 📫 How to reach me?
-- [Twitter](https://twitter.com/ksivasuriyaprak)  -->
+- [Twitter](https://twitter.com/ksivasuriyaprak)
 - [LinkedIn](https://www.linkedin.com/in/suriya26/) 
 - [DEV](https://dev.to/ksspam) 
 - [SubStack](https://substack.com/@ksivasuriyaprakash?utm_campaign=profile&utm_medium=profile-page)
 
-<p align="center"> 
-  Visitors count<br>
+
 ![](https://komarev.com/ghpvc/?username=MazeWorksSuriya)
-</p>
 
 <!-- <details> -->
 <!--  <summary>⚡️ More about my coding life</summary> -->
