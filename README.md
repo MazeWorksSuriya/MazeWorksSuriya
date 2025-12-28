@@ -10,9 +10,8 @@
 
 <p align="center"> 
   Visitors count<br>
-</p>
-
 ![](https://komarev.com/ghpvc/?username=MazeWorksSuriya)
+</p>
 
 <!-- <details> -->
 <!--  <summary>⚡️ More about my coding life</summary> -->
