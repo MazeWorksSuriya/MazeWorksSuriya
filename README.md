@@ -44,7 +44,7 @@
 
 <div style={'width': 100%}> 
   
-  ![Snake animation](https://github.com/monroy95/monroy95/assets/26640728/b1b0528f-ea52-4643-ad03-ec5bf35fe4c7)
+![](https://raw.githubusercontent.com/SuriyaAPS/Snake-in-Contribution-Grid/output/github-contribution-grid-snake.svg)
 
 </div>
 <!-- </details> -->
