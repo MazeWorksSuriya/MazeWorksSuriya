@@ -10,8 +10,8 @@
 
 <p align="center"> 
   Visitors count<br>
-  ![](https://komarev.com/ghpvc/?username=MazeWorksSuriya)
 </p>
+![](https://hit.yhype.me/github/profile?account_id=1849174)
 
 <!-- <details> -->
 <!--  <summary>⚡️ More about my coding life</summary> -->
